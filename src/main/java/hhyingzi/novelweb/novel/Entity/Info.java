@@ -1,4 +1,4 @@
-package hhyingzi.novelweb;
+package hhyingzi.novelweb.novel.Entity;
 
 import org.springframework.data.annotation.Id;
 

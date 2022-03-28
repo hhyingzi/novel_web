@@ -1,5 +1,6 @@
-package hhyingzi.novelweb;
+package hhyingzi.novelweb.novel.Repository;
 
+import hhyingzi.novelweb.novel.Entity.Info;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
